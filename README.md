@@ -7,3 +7,4 @@ to run this
 * in terminal write: composer install
 * in terminal write: php artisan migrate
 * to run application: php artisan serve
+* open your browser then type [http://127.0.0.1:8000] 
